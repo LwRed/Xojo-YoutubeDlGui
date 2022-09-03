@@ -11,8 +11,8 @@ Fonctionnalites :
 
 Fichiers requis pour faire fonctionner le programme :
 - youtube-dl.exe (le programme peut télécharger automatiquement la dernière version)
-- ffmpeg.exe (à récupérer sur Internet)
-- ffprobe.exe (à récupérer sur Internet)
+- ffmpeg.exe (à récupérer sur Internet - https://www.gyan.dev/ffmpeg/builds/)
+- ffprobe.exe (à récupérer sur Internet - https://www.gyan.dev/ffmpeg/builds/)
 
 <img src="WindowsCapture.png" width="640">
 
