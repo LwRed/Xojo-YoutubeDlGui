@@ -9,7 +9,10 @@ Fonctionnalites :
 - Mise à jour possible de l'executable youtube-dl.exe
 - Fonctionne uniquement sous Windows pour le moment
 
-
+Fichiers requis pour faire fonctionner le programme :
+- youtube-dl.exe (le programme peut télécharger automatiquement la dernière version)
+- ffmpeg.exe (à récupérer sur Internet)
+- ffprobe.exe (à récupérer sur Internet)
 
 Historique des versions :
 
