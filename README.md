@@ -1,4 +1,4 @@
-# Xojo-YoutubeDlGui by SoftSteph ;)
+# Xojo - Youtube Dl Gui by SoftSteph ;)
 Youtube Downloader Gui made with Xojo 2021+ // MacOs et Windows
 
 
