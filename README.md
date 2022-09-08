@@ -23,6 +23,9 @@ Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_but
 
 Historique des versions :
 
+v0.6 du 08/09/2022
+Amélioration de la détection des Titres et extensions
+
 v0.5 du 06/09/2002
 Première version sous MacOs fonctionnelle
 Detection du Titre de la Video Youtube si disponible
