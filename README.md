@@ -14,7 +14,7 @@ Fichiers requis pour faire fonctionner le programme sous Windows :
 - ffmpeg.exe et ffprobe.exe (à récupérer sur Internet - https://www.gyan.dev/ffmpeg/builds/)
 
 Fichiers requis pour faire fonctionner le programme sous MacOs :
-- youtube-dl (le programme peut télécharger automatiquement la dernière version)
+- youtube-dl (Youtube Dl Gui peut télécharger automatiquement la dernière version)
 - ffmpeg et ffprobe dans usr/local/bin/ (à récupérer via le terminal : brew install ffmpeg)
 
 <img src="MacCapture.png" width="640">
